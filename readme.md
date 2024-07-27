@@ -1,6 +1,6 @@
 # AutoML: Democratizing Machine Learning
 
-This repository accompanies an article on AutoML (Automated Machine Learning), exploring its capabilities, benefits, and promising future. We'll delve into how AutoML is making machine learning accessible to a wider audience, empowering users with varying levels of expertise to build and deploy powerful models.
+This repository accompanies an article on AutoML (Automated Machine Learning), exploring its capabilities, benefits, and promising future. We'll delve into how AutoML makes machine learning accessible to a wider audience, empowering users with varying levels of expertise to build and deploy powerful models.
 
 ## Contents
 
@@ -18,12 +18,9 @@ This repository features practical examples demonstrating AutoML's capabilities 
 The accompanying article will cover the following aspects of AutoML:
 
 - **Introduction to AutoML:** What is AutoML, and why is it gaining traction?
-- **Benefits of AutoML:** Explore the advantages of using AutoML for machine learning tasks.
-- **Key Capabilities:** Dive into the core functionalities of AutoML, including:
-    - Automated data preprocessing and feature engineering
-    - Algorithm selection and hyperparameter optimization
-    - Model training, evaluation, and deployment
-- **Use Cases:** Discuss real-world applications of AutoML across various industries.
+- **Common AutoML offerings:** List the best companies that offer AutoML.
+- **Key Capabilities:** Dive into the core functionalities of AutoML:
+- **Advantages and Disadvantages:** Discuss pros and cons of AutoML.
 - **The Future of AutoML:** Examine the potential impact of AutoML on the future of machine learning.
 
 ## Getting Started
